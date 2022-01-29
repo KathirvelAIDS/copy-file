@@ -21,7 +21,7 @@ The empty file is open by using 'w' which is used to write only.
 The for function is used to take each line from the main file.
 
 ### Step 6: 
-Write() is used to write the lines of main file to the empty file or to the directed file.
+Write() is used to write the lines of main file to the empty file or to the directed file
 
 ## PROGRAM:
 ~~~
