@@ -32,7 +32,7 @@ with open("text.txt") as f:
  ~~~
 
 ### OUTPUT:
-![output1]()
+![output1](https://github.com/vijay21500269/copy-file/blob/main/Screenshot%20(43).png)
 ![output2]()
 ![output3]()
 
