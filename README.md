@@ -34,7 +34,7 @@ with open("text.txt") as f:
 ### OUTPUT:
 ![output1](https://github.com/vijay21500269/copy-file/blob/main/Screenshot%20(43).png)
 ![output2](https://github.com/vijay21500269/copy-file/blob/main/Screenshot%20(44).png)
-![output3]()
+![output3](https://github.com/vijay21500269/copy-file/blob/main/Screenshot%20(45).png)
 
 
 
