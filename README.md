@@ -18,6 +18,12 @@ Anaconda - Python 3.7
 ### Step 6: 
 
 ## PROGRAM:
+~~~
+with open("text.txt") as f:
+    with open("text1.txt", "w") as f1:
+        for line in f:
+            f1.write(line)
+ ~~~
 
 ### OUTPUT:
 
